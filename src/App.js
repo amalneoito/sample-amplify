@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         thanks mom and god for the all helps
+         tset branch jenkins working properly!!!
         </p>
         <a
           className="App-link"
